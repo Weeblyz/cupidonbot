@@ -1,4 +1,6 @@
 { 
+  "name"   : "cupidonbot"
+  "main"   : "index.js"
   "token"  : "NTYwNDc2MzUxMDA2NjM4MDgx.D30kvw.FopaYKNqNgmqgoEfwDslOpYa7Zo",
   "prefix" : "c!"
 }
